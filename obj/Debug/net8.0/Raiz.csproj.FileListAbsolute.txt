@@ -1,0 +1,14 @@
+C:\PP\Raiz\bin\Debug\net8.0\Raiz.exe
+C:\PP\Raiz\bin\Debug\net8.0\Raiz.deps.json
+C:\PP\Raiz\bin\Debug\net8.0\Raiz.runtimeconfig.json
+C:\PP\Raiz\bin\Debug\net8.0\Raiz.dll
+C:\PP\Raiz\bin\Debug\net8.0\Raiz.pdb
+C:\PP\Raiz\obj\Debug\net8.0\Raiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\PP\Raiz\obj\Debug\net8.0\Raiz.AssemblyInfoInputs.cache
+C:\PP\Raiz\obj\Debug\net8.0\Raiz.AssemblyInfo.cs
+C:\PP\Raiz\obj\Debug\net8.0\Raiz.csproj.CoreCompileInputs.cache
+C:\PP\Raiz\obj\Debug\net8.0\Raiz.dll
+C:\PP\Raiz\obj\Debug\net8.0\refint\Raiz.dll
+C:\PP\Raiz\obj\Debug\net8.0\Raiz.pdb
+C:\PP\Raiz\obj\Debug\net8.0\Raiz.genruntimeconfig.cache
+C:\PP\Raiz\obj\Debug\net8.0\ref\Raiz.dll
